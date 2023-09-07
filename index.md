@@ -14,3 +14,10 @@ return (a+b);
 }
 addition(5,7);
 ```
+
+- [x] pull request created
+- [x] Header added
+- [x] Image added
+- [x] javaScript code added
+- [x] lists added
+- [ ] merge
